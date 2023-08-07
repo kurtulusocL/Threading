@@ -1,0 +1,11 @@
+C:\Users\kurtulusocL\Desktop\Threading\bin\Debug\Threading.exe.config
+C:\Users\kurtulusocL\Desktop\Threading\bin\Debug\Threading.exe
+C:\Users\kurtulusocL\Desktop\Threading\bin\Debug\Threading.pdb
+C:\Users\kurtulusocL\Desktop\Threading\obj\Debug\Threading.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\Threading\obj\Debug\Threading.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurtulusocL\Desktop\Threading\obj\Debug\Threading.Form1.resources
+C:\Users\kurtulusocL\Desktop\Threading\obj\Debug\Threading.Properties.Resources.resources
+C:\Users\kurtulusocL\Desktop\Threading\obj\Debug\Threading.csproj.GenerateResource.cache
+C:\Users\kurtulusocL\Desktop\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\Threading\obj\Debug\Threading.exe
+C:\Users\kurtulusocL\Desktop\Threading\obj\Debug\Threading.pdb
